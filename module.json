@@ -3,7 +3,7 @@
   "name": "application-api",
   "display_name": "Application Core Api",
   "description": "Application Core api presentation adapter.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "presentation",
   "provider": "Liberu\\Foundation\\ApplicationApi\\ApplicationApiServiceProvider",
   "requires": {
